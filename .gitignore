@@ -1,0 +1,5 @@
+/simp_cpu/work/*
+/simp_cpu/*.bak
+/simp_cpu/transcript
+/simp_cpu/vsim.wlf
+/simp_cpu/simp_cpu.*
